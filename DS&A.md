@@ -5,6 +5,10 @@ For this enhancement, I chose my Project 2 artifact from the Data Structures and
 
 While this project was relatively complete, the initial implementation did not implement the search function correctly. I had made this during a time when my programming skills were much less developed, and I saw many improvements that could be made. On top of this, I also chose this project to display my understanding of data structures in general due to the requirement. I displayed my abilities with algorithms and data structures by writing additional functions that traverse the binary search tree after rewriting it as a template function with smart pointers. I implemented a couple of basic functions to calculate the time of traversal and the space used by the class and its members to prepare for a visualization that compares other data structures. The binary search tree file was separated into a header, and a testing project file was included in the solution. 
 
+# Purpose:
+The purpose of this enhancement was to show how a project can be made more flexible to incorporate DRY standards
+and track memory and time directly to indicate efficiency. O(n) complexity assumes correct implementation and building
+a direct calulation can be more indiciative of more complex functions.
 
 # Binary Search Tree Class
 
