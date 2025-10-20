@@ -9,7 +9,8 @@ This shows my ability to rework code into more dynamic standards, use common fra
 
 # Purpose:
 The main purpose of this enhancement was to add some registration functionality for admin users. In a production setting, MFA is absolutely necessary for admin permissions.
-The use of validators displays a security mindset that prioritizes good frameworks over the pride of trying to create and use complex regexes myself.
+The use of validators displays a security mindset that prioritizes good frameworks over the pride of trying to create and use complex regexes myself. Some files were also cleaned up and
+CSS files were deleted to pull from one main css style.
 
 # Registration function 
 <img width="948" height="494" alt="image" src="https://github.com/user-attachments/assets/c1febe59-ad88-4388-9189-68c713f7b810" />
@@ -31,4 +32,5 @@ The use of validators displays a security mindset that prioritizes good framewor
 # Mongo Result from Registration Call
 <img width="1081" height="180" alt="image" src="https://github.com/user-attachments/assets/aaefe358-7f05-4bd8-9556-aa13c8f909d8" />
 
-
+#Full Project repo
+<a href="https://github.com/alleviationz/CS-465-Fullstack_Development">Full Project</a>
