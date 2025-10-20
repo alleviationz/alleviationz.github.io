@@ -7,8 +7,8 @@ While this project was relatively complete, the initial implementation did not i
 
 # Purpose:
 The purpose of this enhancement was to show how a project can be made more flexible to incorporate DRY standards
-and track memory and time directly to indicate efficiency. O(n) complexity assumes correct implementation and building
-a direct calulation can be more indiciative of more complex functions.
+and, track memory and time directly to indicate efficiency. O(n) complexity assumes correct implementation and building
+a direct calculation can be more indicative of more complex functions.
 
 # Binary Search Tree Class
 
