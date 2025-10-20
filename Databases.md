@@ -16,7 +16,8 @@
 <img width="769" height="462" alt="image" src="https://github.com/user-attachments/assets/86de1293-6391-4416-b4d0-ef6eb1279550" />
 
 # Migration to MongoAtlas w/ environment variables to obfuscate credentials
-<img width="1240" height="418" alt="image" src="https://github.com/user-attachments/assets/04a3daf3-7bb7-4906-9695-a0501ae6ce8c" />
+<img width="980" height="519" alt="image" src="https://github.com/user-attachments/assets/9af7c92f-df2b-46b3-8f44-6ecc729006f2" />
+
 
 
 
