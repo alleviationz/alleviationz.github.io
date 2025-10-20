@@ -1,1 +1,3 @@
-# Data Structures and Algorithms Project
+layout: page
+title: "Data Structures and Algorithms"
+permalink: /DS&A
