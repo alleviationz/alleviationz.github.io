@@ -1,3 +1,7 @@
+layout: page
+title: "Alec's ePortfolio"
+permalink: https://alleviationz.github.io/ds&a
+
 # Data Structures & Algorithms
 
 # Narrative:
