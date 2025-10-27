@@ -1,3 +1,7 @@
+layout: page
+title: "Alec's ePortfolio"
+permalink: https://alleviationz.github.io/index
+
 # E-Portfolio: Alec N. - SNHU
 
 # About me
