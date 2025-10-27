@@ -1,6 +1,6 @@
 layout: page
 title: "Alec's ePortfolio"
-permalink: https://alleviationz.github.io/ds&a
+permalink: https://alleviationz.github.io/DS&A.md
 
 # Data Structures & Algorithms
 
