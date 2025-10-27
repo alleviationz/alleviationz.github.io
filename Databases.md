@@ -1,3 +1,7 @@
+layout: page
+title: "Alec's ePortfolio"
+permalink: https://alleviationz.github.io/databases
+
 # Databases
 
 # AAC animals Database w/ NoSQL
