@@ -42,7 +42,7 @@ The purpose of this enhancement was to provide a better user experience with the
 
 
 # Full Project repo
-(https://github.com/alleviationz/CS-340-Client-Server_Development)[Full Project]
+[Full Project](https://github.com/alleviationz/CS-340-Client-Server_Development)
 
 
 
