@@ -25,20 +25,20 @@ Significant changes to memory could be made by reducing the size of the individu
 
 
 # [Binary Search Tree Visualization]
-("https://github.com/user-attachments/assets/4d2f3cbf-77ff-4b0a-bbad-4ec52ac4837a")
+(https://github.com/user-attachments/assets/4d2f3cbf-77ff-4b0a-bbad-4ec52ac4837a)
 
 
 # [Vector Merge Sorting Visualization]
-(width="644" height="547" alt="image" src="https://github.com/user-attachments/assets/131e4b43-65cc-4d2e-ac64-75675e5aefbd")
+(https://github.com/user-attachments/assets/131e4b43-65cc-4d2e-ac64-75675e5aefbd)
 
 
 # [Simple Menu with validated options and a manager object]
-("https://github.com/user-attachments/assets/19c5ead1-08d8-4c7a-81c7-d8a03ac02f50")
+(https://github.com/user-attachments/assets/19c5ead1-08d8-4c7a-81c7-d8a03ac02f50)
 
 
 # [Some unit tests]
-("https://github.com/user-attachments/assets/2c9b5df4-020d-4808-ae9f-8f35378ecd05")
+(https://github.com/user-attachments/assets/2c9b5df4-020d-4808-ae9f-8f35378ecd05)
 
 # Full project repo:
-[Full Project]("https://github.com/alleviationz/CS-300-Data_Structures_Algorithms")
+[Full Project](https://github.com/alleviationz/CS-300-Data_Structures_Algorithms)
 
