@@ -36,5 +36,4 @@ CSS files were deleted to pull from one main css style.
 # Mongo Result from Registration Call
 ![Mongo results from registration](https://github.com/user-attachments/assets/aaefe358-7f05-4bd8-9556-aa13c8f909d8)
 
-#Full Project repo
 [Full Project](https://github.com/alleviationz/CS-465-Fullstack_Development)
