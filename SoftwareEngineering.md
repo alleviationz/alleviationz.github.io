@@ -1,6 +1,6 @@
 layout: page
 title: "Alec's ePortfolio"
-permalink: https://alleviationz.github.io/softwareengineering
+permalink: https://alleviationz.github.io/softwareEngineering
 
 # Software Engineering
 
@@ -17,24 +17,24 @@ The use of validators displays a security mindset that prioritizes good framewor
 CSS files were deleted to pull from one main css style.
 
 # Registration function 
-<img width="948" height="494" alt="image" src="https://github.com/user-attachments/assets/c1febe59-ad88-4388-9189-68c713f7b810" />
-<img width="1476" height="646" alt="image" src="https://github.com/user-attachments/assets/5a5e54b4-6a7f-4501-8e22-34d3cee254de" />
+![Registration](https://github.com/user-attachments/assets/c1febe59-ad88-4388-9189-68c713f7b810)
+![Registration](https://github.com/user-attachments/assets/5a5e54b4-6a7f-4501-8e22-34d3cee254de)
 
 
 # Registration HMTL form using Angular's Form Control
-<img width="765" height="621" alt="image" src="https://github.com/user-attachments/assets/cad273fa-a24e-4162-82ca-566626c403f9" />
-<img width="1917" height="622" alt="image" src="https://github.com/user-attachments/assets/b3d6345f-f963-42c1-9809-8bea48216259" />
+![Registration form control](https://github.com/user-attachments/assets/cad273fa-a24e-4162-82ca-566626c403f9)
+![Registration form control](https://github.com/user-attachments/assets/b3d6345f-f963-42c1-9809-8bea48216259)
 
 
 # Auth API registration call
-<img width="900" height="375" alt="image" src="https://github.com/user-attachments/assets/0d1dae6f-3c24-4458-80d2-18c9e3a9c143" />
+![Auth API registration call](https://github.com/user-attachments/assets/0d1dae6f-3c24-4458-80d2-18c9e3a9c143)
 
 # Postman test
 
-<img width="880" height="553" alt="image" src="https://github.com/user-attachments/assets/4db34660-4ac1-4a63-829a-f9f99a8cb11d" />
+![Testing with Postman](https://github.com/user-attachments/assets/4db34660-4ac1-4a63-829a-f9f99a8cb11d)
 
 # Mongo Result from Registration Call
-<img width="1081" height="180" alt="image" src="https://github.com/user-attachments/assets/aaefe358-7f05-4bd8-9556-aa13c8f909d8" />
+![Mongo results from registration](https://github.com/user-attachments/assets/aaefe358-7f05-4bd8-9556-aa13c8f909d8)
 
 #Full Project repo
-<a href="https://github.com/alleviationz/CS-465-Fullstack_Development">Full Project</a>
+(https://github.com/alleviationz/CS-465-Fullstack_Development)[Full Project]
