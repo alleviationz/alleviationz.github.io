@@ -40,5 +40,5 @@ Significant changes to memory could be made by reducing the size of the individu
 ![unit tests](https://github.com/user-attachments/assets/2c9b5df4-020d-4808-ae9f-8f35378ecd05)
 
 # Full project repo:
-(https://github.com/alleviationz/CS-300-Data_Structures_Algorithms)[Full Project]
+[Full Project](https://github.com/alleviationz/CS-300-Data_Structures_Algorithms)
 
