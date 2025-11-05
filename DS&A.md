@@ -21,24 +21,24 @@ The code implementations were made into pointers to reduce memory usage, but wer
 Significant changes to memory could be made by reducing the size of the individual data objects as well.
 
 
-<img width="829" height="632" alt="image" src="https://github.com/user-attachments/assets/5a3877a5-3916-4cf5-8fa8-e19b69b12b32" />
+("https://github.com/user-attachments/assets/5a3877a5-3916-4cf5-8fa8-e19b69b12b32")
 
 
-# Binary Search Tree Visualization
-<img width="643" height="565" alt="image" src="https://github.com/user-attachments/assets/4d2f3cbf-77ff-4b0a-bbad-4ec52ac4837a" />
+# [Binary Search Tree Visualization]
+("https://github.com/user-attachments/assets/4d2f3cbf-77ff-4b0a-bbad-4ec52ac4837a")
 
 
-# Vector Merge Sorting Visualization
-<img width="644" height="547" alt="image" src="https://github.com/user-attachments/assets/131e4b43-65cc-4d2e-ac64-75675e5aefbd" />
+# [Vector Merge Sorting Visualization]
+(width="644" height="547" alt="image" src="https://github.com/user-attachments/assets/131e4b43-65cc-4d2e-ac64-75675e5aefbd")
 
 
-# Simple Menu with validated options and a manager object
-<img width="1480" height="601" alt="image" src="https://github.com/user-attachments/assets/19c5ead1-08d8-4c7a-81c7-d8a03ac02f50" />
+# [Simple Menu with validated options and a manager object]
+("https://github.com/user-attachments/assets/19c5ead1-08d8-4c7a-81c7-d8a03ac02f50")
 
 
-# Some unit tests
-<img width="1416" height="647" alt="image" src="https://github.com/user-attachments/assets/2c9b5df4-020d-4808-ae9f-8f35378ecd05" />
+# [Some unit tests]
+("https://github.com/user-attachments/assets/2c9b5df4-020d-4808-ae9f-8f35378ecd05")
 
 # Full project repo:
-<a href="https://github.com/alleviationz/CS-300-Data_Structures_Algorithms">Full Project</a>
+[Full Project]("https://github.com/alleviationz/CS-300-Data_Structures_Algorithms")
 
