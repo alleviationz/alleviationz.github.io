@@ -1,6 +1,6 @@
 layout: page
 title: "Alec's ePortfolio"
-permalink: https://alleviationz.github.io/databases
+permalink: https://alleviationz.github.io/Databases
 
 # Databases
 
