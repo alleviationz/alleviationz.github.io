@@ -1,19 +1,14 @@
-layout: page
-title: "Alec's ePortfolio"
-permalink: https://alleviationz.github.io/Databases
-
-# Databases
-
 # AAC animals Database w/ NoSQL
+## (Rescue animal dataset)
 
 # Narrative:
-This artifact is from my final project in client-server development CS340. It's a noSQL database that allows basic CRUD functionality to manipulate retrieved animal data. The animals are categorized by numerous attributes including breed, name, age, etc.
+This artifact is from my final project in client-server development CS340. It's a noSQL database that implements basic CRUD functionality with NoSQL to manipulate the database's data. The animals are categorized by numerous attributes including breed, name, age, etc.
 The original artifact used a local MongoDB Compass database with hard-wired connection variables. It also contained a radio selector to pick between a few animal attribute types and categorize the data. In this project, I originally intended to
-migrate to an AWS cluster, but I was unable to create any clusters (possibly due to the age of my account). I migrated to MongoDB's cloud MongoAtlas, instead, which uses the same setup that AWS would have anyways.
+migrate to an AWS cluster, but I was unable to create any clusters (possibly due to the age of my account the AWS server issues that happened around this time). I migrated to MongoDB's cloud MongoAtlas, instead, which uses the same setup that AWS would have anyways.
 I cleaned up some of the old code and tests, refactoring tests into automated unit tests. The radio selector was replaced with a drop-down that allows selection of various attributes (similarly to the previous implementation), but
 it also incorporates a search bar that updates as the user types. 
 The security could be improved further by implementing better try-catch blocks, resolving the initial "None"-loading error that is meant to default to breed categorization, and implementing
-some better security. Additionally, the previous markers could be replaced with indices, assuming they will be searched often.
+some better security. Additionally, the consideration and implementation of indexing could additionally improve performance.
 
 # Purpose
 The purpose of this enhancement was to provide a better user experience with the search functionality because the radio-selector had strong limitations.
