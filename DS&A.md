@@ -21,7 +21,7 @@ The code implementations were made into pointers to reduce memory usage, but wer
 Significant changes to memory could be made by reducing the size of the individual data objects as well.
 
 
-![Binary search tree class]("https://github.com/user-attachments/assets/5a3877a5-3916-4cf5-8fa8-e19b69b12b32")
+![Binary search tree class](https://github.com/user-attachments/assets/5a3877a5-3916-4cf5-8fa8-e19b69b12b32)
 
 
 # Binary Search Tree Visualization
