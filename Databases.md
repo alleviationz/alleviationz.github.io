@@ -20,7 +20,8 @@ The purpose of this enhancement was to provide a better user experience with the
 
 
 # Search w/ drop-down selector
- ![Search bar drop-down selector](https://github.com/user-attachments/assets/4adeec4e-fc74-4b71-b119-248ef9a18748)
+![Search bar drop-down selector](https://github.com/user-attachments/assets/4adeec4e-fc74-4b71-b119-248ef9a18748)
+# Second image of drop-down selector
 ![Second image of drop-down selector]("https://github.com/user-attachments/assets/ebd96904-01f1-4a4b-bd44-cf2656121ad4)
 
 
