@@ -1,9 +1,3 @@
-layout: page
-title: "Alec's ePortfolio"
-permalink: https://alleviationz.github.io/softwareEngineering
-
-# Software Engineering
-
 # Full-stack Development
 
 # Narrative:
