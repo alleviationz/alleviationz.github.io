@@ -1,8 +1,5 @@
 # E-Portfolio: Alec N. - SNHU
 
-# About me
-Hello, my name is Alec. I'm 28 and I have two cats. My education is focused toward software engineering, but I enjoy cybersecurity as well.
-
 # Capstone Enhancements:
 - [Software Engineering (Fullstack WebDev)](https://alleviationz.github.io/SoftwareEngineering)
 - [Data Structures & Algorithms](https://alleviationz.github.io/DS&A)
